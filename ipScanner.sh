@@ -106,9 +106,6 @@ if [ $auto_mode ]; then
     else
         helpPanel;
     fi
-
-else
-    helpPanel;
 fi
 
 tput cnorm;
